@@ -12,5 +12,4 @@ Para instalação das dependências do projeto e então digite
 
 ### `npm start`
 
-O projeto sera compilado e pode ser aberto no caminho abaixo em seu navegador
-[http://localhost:3000](http://localhost:3000)
+O projeto sera compilado e pode ser aberto no caminho [http://localhost:3000](http://localhost:3000) em seu navegador
